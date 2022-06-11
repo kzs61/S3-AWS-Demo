@@ -1,4 +1,4 @@
-****_Steps to create S3 Bucket by provisioning the infrastructure with CFT_****
+## Steps to create S3 Bucket by provisioning the infrastructure with CFT
 
   - As we refer the AWS Documentation, we can see that we need to begin writing our json file with template format version and description.
 
