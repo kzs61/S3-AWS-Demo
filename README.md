@@ -201,5 +201,16 @@
    
    - After our deployment, you can verify IAM Roles, security group under EC2 service.
    - Go to Ohio region and verify healthy instances, and healthy security groups. 
-     
+
+<br></br>
+
+## Configuring S3 Lifescycle Policy Diagram
+<img src="/S3LifeCycle.png"  width="500" height="600">
+
+
+<br></br>
+
+## Configuring SNS Push Notifications on S3 Bucket Events Diagram
+<img src="/SNSS3.png"  width="600" height="600">
+
      
