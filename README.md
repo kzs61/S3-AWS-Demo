@@ -1,5 +1,5 @@
 ## Steps to create S3 Bucket by provisioning the infrastructure with CFT
-
+<br></br>
   - As we refer the AWS Documentation, we can see that we need to begin writing our json file with template format version and description.
 
           "AWSTemplateFormatVersion" : "2010-09-09",
@@ -195,7 +195,7 @@
                 }
      
      
-   
+   <br></br>
    Now, we can deploy this CFT by going AWS Console and opening CloudFormation service then create our stack. Above CFT template simply would be pasted 
    for template section then deploy the template as is.
    
