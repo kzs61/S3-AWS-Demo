@@ -205,12 +205,12 @@
 <br></br>
 
 ## Configuring S3 Lifescycle Policy Diagram
-<img src="/S3LifeCycle.png"  width="500" height="600">
+<img src="/S3LifeCycle.png"  width="650" height="750">
 
 
 <br></br>
 
 ## Configuring SNS Push Notifications on S3 Bucket Events Diagram
-<img src="/SNSS3.png"  width="600" height="600">
+<img src="/SNSS3.png"  width="650" height="650">
 
      
